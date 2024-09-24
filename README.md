@@ -1,30 +1,33 @@
 # :newspaper: News Scraping API
 
-- Link on Render: https://api-news-portugal.onrender.com/
+- :link: Link on Render: https://api-news-portugal.onrender.com/
 
-## Overview
+## 🔎 Overview
 
 The News Scraping API is a RESTful API that aggregates news articles from various Portuguese news websites. It provides a simple endpoint to retrieve the latest articles along with their images, titles, descriptions, and links.
 
-## Endpoint
+## ⭕ Endpoint
 
   - /news
   - (Others soon...)
 
-## Features
+## :star2: Features
 
 - Scrapes articles from multiple sources:
-  - Público
-  - Observador
-  - CM Jornal
-  - SIC Notícias
-  - CNN Portugal
-  - RTP
-  - EuroNews
+  - ✅ Observador
+  - ✅ CM Jornal
+  - ✅ SIC Notícias
+  - ✅ CNN Portugal
+  - ✅ RTP
+  - ✅ EuroNews
+  - ❌ Público
+  - ❌ Jornal Nacional
+  - ❌ Diário de Notícias
+  - ❌ Expresso
 - Returns news articles in JSON format
 - Simple and easy-to-use API
 
-## Tech Stack
+## 🔧 Tech Stack
 
 - **Node.js**: Server-side development
 - **Express.js**: API
@@ -32,7 +35,7 @@ The News Scraping API is a RESTful API that aggregates news articles from variou
 - **Cheerio**: Manipulating HTML
 - **JSON**: Data format
 
-## Installation
+## ⬇️ Installation
 
 1. Clone the repository:
    ```bash
@@ -46,7 +49,7 @@ The News Scraping API is a RESTful API that aggregates news articles from variou
    ```bash
    npm install
 
-## Run
+## ▶️ Run
 
    ```bash
    node app.js

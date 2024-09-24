@@ -1,4 +1,4 @@
-:newspaper:# News Scraping API
+# :newspaper: News Scraping API
 
 - Link on Render: https://api-news-portugal.onrender.com/
 

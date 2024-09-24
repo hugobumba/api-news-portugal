@@ -1,0 +1,26 @@
+const axios = require('axios');
+const cheerio = require('cheerio');
+
+async function scrapePublico() {
+	const url = 'https://www.publico.pt/';
+	const page = await axios.get(url);
+	const $ = cheerio.load(page.data);
+	
+	const articleInfo = [];
+
+	$('#main-content > section.block.block--bf-widget.block--bf-widget-9.editorial-content.editorial-content.new-container > div > div.cs--1.cn--16.mdmax-cs--1.mdmax-cn--16 > div:nth-child(1) > div.cs--1.cn--12.mdmax-cs--1.mdmax-cn--12.md-r-bdr > article.article.article--level-2.article--media-66.tone--news.article--is-unique.article--sublinks.related-1 > div').each((index, element) => {
+		const source = "Público";
+		const img = $(element).find('.article__figure > a img').attr('src');
+		const title = $(element).find('.article__title a').text().trim();
+		const desc = $(element).find('p').text().trim();
+		const link = $(element).find('.article__title a').attr('href');
+		console.log({ source, img, title, desc, link });
+
+        articleInfo.push({ source, img, title, desc });
+	});
+
+    return articleInfo;
+
+}
+
+module.exports = scrapePublico;

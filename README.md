@@ -5,7 +5,7 @@
 
 ## 🔎 Overview
 
-The News Scraping API is a RESTful API that aggregates news articles from various Portuguese news websites. It provides a simple endpoint to retrieve the latest articles along with their images, titles, descriptions, and links.
+The News Scraping API is designed to provide users with easy access to the latest news articles from various main Portuguese news outlets. This API collects news articles in real-time, offering a streamlined way to collect and display the most recent headlines.
 
 
 ## ⭕ Endpoint

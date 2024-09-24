@@ -6,9 +6,10 @@
 ## 🔎 Overview
 
 The News Scraping API is designed to provide users with easy access to the latest news articles from various main Portuguese news outlets. This API collects news articles in real-time, offering a streamlined way to collect and display the most recent headlines.
+In update.
 
 
-## ⭕ Endpoint
+## ⭕ Endpoints
 
   - /news
   - (Others soon...)
@@ -29,6 +30,7 @@ The News Scraping API is designed to provide users with easy access to the lates
   - ❌ Expresso
 - Returns news articles in JSON format
 - Simple and easy-to-use API
+- ❌CronJob (every 5 minutes)
 
 
 ## 🔧 Tech Stack
@@ -59,3 +61,5 @@ The News Scraping API is designed to provide users with easy access to the lates
 
    ```bash
    node app.js
+
+

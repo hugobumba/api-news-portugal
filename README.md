@@ -59,7 +59,14 @@ In update.
 
 ## ▶️ Run
 
+1. Run the scraper:
+   ```bash
+   node mainScraper.js
+
+2. Run the API   :
    ```bash
    node app.js
 
+2. Open the browser:
+   - http://127.0.0.1:3000/news
 

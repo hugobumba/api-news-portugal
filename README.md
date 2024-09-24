@@ -2,14 +2,17 @@
 
 - :link: Link on Render: https://api-news-portugal.onrender.com/
 
+
 ## 🔎 Overview
 
 The News Scraping API is a RESTful API that aggregates news articles from various Portuguese news websites. It provides a simple endpoint to retrieve the latest articles along with their images, titles, descriptions, and links.
+
 
 ## ⭕ Endpoint
 
   - /news
   - (Others soon...)
+
 
 ## :star2: Features
 
@@ -27,6 +30,7 @@ The News Scraping API is a RESTful API that aggregates news articles from variou
 - Returns news articles in JSON format
 - Simple and easy-to-use API
 
+
 ## 🔧 Tech Stack
 
 - **Node.js**: Server-side development
@@ -34,6 +38,7 @@ The News Scraping API is a RESTful API that aggregates news articles from variou
 - **Axios**: Websites HTTP requests
 - **Cheerio**: Manipulating HTML
 - **JSON**: Data format
+
 
 ## ⬇️ Installation
 
@@ -48,6 +53,7 @@ The News Scraping API is a RESTful API that aggregates news articles from variou
 3. Install the dependencies:
    ```bash
    npm install
+
 
 ## ▶️ Run
 

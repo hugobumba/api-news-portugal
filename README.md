@@ -57,7 +57,6 @@ In update.
    ```bash
    npm install
 
-
 ## ▶️ Run
 
 1. Run the scraper:

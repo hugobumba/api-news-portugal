@@ -1,4 +1,4 @@
-# :newspaper: News Scraping API
+# :newspaper: Portugal News API
 ![news-api-screenshot](https://github.com/user-attachments/assets/1a779f73-7700-4e44-abd7-688ed7887f2c)
 
 - :link: Link on Render: https://api-news-portugal.onrender.com/news

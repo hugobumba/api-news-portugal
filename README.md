@@ -1,7 +1,7 @@
 # :newspaper: API News Portugal
 ![news-api-screenshot](https://github.com/user-attachments/assets/1a779f73-7700-4e44-abd7-688ed7887f2c)
 
-- :link: Link on Render: https://api-news-portugal.onrender.com/news
+- :link: Link on Render: https://api-news-portugal.onrender.com/api/news
 
 
 ## 🔎 Overview
@@ -12,7 +12,7 @@ In update.
 
 ## ⭕ Endpoints
 
-  - /news
+  - /api/news
   - (Others soon...)
 
 
@@ -68,5 +68,5 @@ In update.
    node app.js
 
 2. Open the browser:
-   - http://127.0.0.1:3000/news
+   - http://127.0.0.1:3000/api/news
 

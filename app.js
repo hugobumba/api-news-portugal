@@ -2,20 +2,20 @@ const express = require('express');
 const fs = require('fs');
 const path = require('path');
 
-// Configuração do servidor Express
+// Express server configs
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Função para ler o arquivo JSON
+// Read JSON file from 'data' folder
 function getNews() {
-    const filePath = path.join(__dirname, 'news.json');
+    const filePath = path.join(__dirname, 'data', 'news.json'); // Apontar para a pasta 'data'
     
     const data = fs.readFileSync(filePath, 'utf-8');
     return JSON.parse(data);
 }
 
-// Rota para scraping
-app.get('/news', async (req, res) => {
+// News route
+app.get('/api/news', async (req, res) => {
     const news = getNews();
     res.setHeader('Content-Type', 'application/json'); // Define o tipo de conteúdo como JSON
     res.send(JSON.stringify(news, null, 2)); // Formata o JSON com indentação de 2 espaços

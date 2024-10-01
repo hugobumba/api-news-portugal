@@ -8,7 +8,7 @@ async function scrapeSicNoticias() {
 	
 	const articleInfo = [];
 
-	$('#root > main > section:nth-child(6) > div > div > div > div > div > ul.list-articles.item-count-1.featured-articles > li > article > div').each((index, element) => {
+	$('#root > main > section:nth-child(6) > div > div > div > div > div > ul.list-articles.item-count-1.featured-articles > li > .teaser-article > div').each((index, element) => {
 		const sourceName = "SIC Notícias";
 		const sourceUrl = url;
 		const title = $(element).find('.title a').text().trim();

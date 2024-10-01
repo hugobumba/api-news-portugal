@@ -2,23 +2,23 @@
   {
     "sourceName": "Observador",
     "sourceUrl": "https://observador.pt/",
-    "title": "Estreia. \"A bisbilhoteira que faz tremer o país\"",
-    "desc": "Ouça o 1.º episódio da série \"A Grande Provocadora\". Com uma simples crónica de jornal, chamada \"Bisbilhotices\", uma mulher misteriosa aterroriza as elites do Estado Novo. Essa mulher é Vera Lagoa",
-    "img": "https://bordalo.observador.pt/v2/q:60/rs:fill:640/c:1920:1079:nowe:0:0/plain/https://s3.observador.pt/wp-content/uploads/2024/09/22080448/a-grande-procadora-16-9-title-logos.jpg",
-    "link": "https://observador.pt/programas/a-grande-provocadora/estreia-a-grande-provocadora-episodio-1-a-bisbilhoteira-que-faz-tremer-o-pais/"
+    "title": "Em direto/ \n                                        Netanyahu: próximos dias são de \"grandes desafios\"",
+    "desc": "Israel ainda não identificou \"ameaça aérea\" do Irão, mas diz que país está preparado e haverá \"repercussões\". EUA concordam com incursão terrestre de Israel no Líbano.",
+    "img": "https://bordalo.observador.pt/v2/q:60/rs:fill:640/c:4096:2303:nowe:0:214/plain/https://s3.observador.pt/wp-content/uploads/2024/10/01064747/gettyimages-2174387934-scaled.jpg",
+    "link": "https://observador.pt/liveblogs/eua-concordam-com-incursoes-terrestres-de-israel-no-libano-e-preciso-desmantelar-infraestrutura-de-ataque-do-hezbollah/"
   },
   {
     "sourceName": "CM Jornal",
     "sourceUrl": "https://www.cmjornal.pt",
     "title": "Incêndio em oficina de motas de Viana do Castelo mata mulher e deixa marido em estado grave",
-    "desc": "Ferido foi transportado para o Hospital de São João, no Porto.",
+    "desc": "Duas pessoas ficaram desalojadas.",
     "img": "https://cdn.cmjornal.pt/images/2024-10/img_590x333$2024_10_01_15_10_44_1759736.jpg",
     "link": "https://www.cmjornal.pt/portugal/detalhe/incendio-em-oficina-de-motas-de-viana-do-castelo-faz-quatro-feridos-ha-duas-pessoas-desaparecidas?ref=HP_PrimeirosDestaques"
   },
   {
     "sourceName": "SIC Notícias",
     "sourceUrl": "https://sicnoticias.pt/",
-    "title": "Irão prepara ofensiva com mísseis balísticos contra Israel, diz a Casa BrancaNATO garante \"seguir de muito perto o que se passa no Líbano\" e apela ao fim do conflito no Médio Oriente\"Estão a matar toda a gente\": milhares deixam o Líbano com medo dos ataques de IsraelBeirute acorda em escombros após ataques de IsraelIsrael está a identificar e neutralizar túneis \"gigantescos\" do Hezbollah no Líbano, explica Henrique Cymerman",
+    "title": "Irão prepara ofensiva com mísseis balísticos contra Israel, Guterres quer evitar guerra \"a todo o custo\"NATO garante \"seguir de muito perto o que se passa no Líbano\" e apela ao fim do conflito no Médio Oriente\"Estão a matar toda a gente\": milhares deixam o Líbano com medo dos ataques de IsraelBeirute acorda em escombros após ataques de IsraelIsrael está a identificar e neutralizar túneis \"gigantescos\" do Hezbollah no Líbano, explica Henrique Cymerman",
     "desc": "Israel deu início na noite desta segunda-feira a uma nova fase da ofensiva no Médio Oriente, com uma operação terrestre no sul do Líbano contra alvos do Hezbollah.",
     "img": "https://images.impresa.pt/sicnot/2024-10-01-beirute-022f31f6",
     "link": "/especiais/conflito-israel-palestina/2024-09-30-israel-lanca-operacao-terrestre-contra-o-hezbollah-no-sul-do-libano-b0915900?utm_source=sicnot&utm_medium=root&utm_campaign=WEB&utm_content=/especiais/conflito-israel-palestina/2024-09-30-israel-lanca-operacao-terrestre-contra-o-hezbollah-no-sul-do-libano-b0915900"
@@ -28,6 +28,7 @@
     "sourceUrl": "https://cnnportugal.iol.pt/",
     "title": "Irão prepara-se para atacar Israel com mísseis balísticos, diz a Casa Branca",
     "desc": "",
+    "img": "https://img.iol.pt/image/id/652be1a0d34e65afa2f66c75/480.jpg",
     "link": "https://cnnportugal.iol.pt/aominuto/652125bed34e65afa2f62245"
   },
   {

@@ -14,7 +14,7 @@ async function scrapeRtp() {
 		const title = $(element).find('.meta.highlights h2').text().trim();
 		const desc = '';
 		const img = $(element).find('.img-container img').attr('src');
-		const link = $(element).find('link href').attr('href');
+		const link = $(element).find('a').attr('href');
 		//console.log({ sourceName, sourceUrl, title, desc, img, link });
 
         articleInfo.push({ sourceName, sourceUrl, title, desc, img, link });

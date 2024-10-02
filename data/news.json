@@ -1,35 +1,27 @@
 [
   {
-    "sourceName": "Observador",
-    "sourceUrl": "https://observador.pt/",
-    "title": "Em direto/ \n                                        Bombeiros ocuparam escadaria do Parlamento",
-    "desc": "Ânimos exaltaram-se no protesto dos bombeiros sapadores em frente ao Parlamento, com os manifestantes a subirem a escadaria. Dispositivo policial evitou entrada na Assembleia.",
-    "img": "https://bordalo.observador.pt/v2/q:60/rs:fill:640/c:4096:2297:nowe:0:91/plain/https://s3.observador.pt/wp-content/uploads/2024/10/02130843/doc2024100243661805-ps03950-scaled.jpg",
-    "link": "https://observador.pt/liveblogs/ministra-da-saude-ouvida-hoje-no-parlamento-sobre-o-inem-urgencias-e-eutanasia/"
-  },
-  {
     "sourceName": "CM Jornal",
     "sourceUrl": "https://www.cmjornal.pt",
     "title": "Barbeiro, taxista e mulher grávida mortos a tiro na rua em Lisboa",
-    "desc": "Casal deixa órfã uma menina. Suspeitos estão em fuga.",
+    "desc": "Casal deixa órfã uma menina. Homicidas estão em fuga.",
     "img": "https://cdn.cmjornal.pt/images/2024-10/img_590x333$2024_10_02_15_22_51_1760622.jpg",
     "link": "https://www.cmjornal.pt/portugal/detalhe/dois-homens-baleados-na-cabeca-na-rua-em-lisboa-suspeitos-em-fuga?ref=HP_PrimeirosDestaques"
   },
   {
-    "sourceName": "SIC Notícias",
-    "sourceUrl": "https://sicnoticias.pt",
-    "title": "Tiroteio em Santa Apolónia faz três mortos, suspeitos em fugaTiroteio em Santa Apolónia: desentendimento em barbearia estará na origem do triplo homicídio",
-    "desc": "",
-    "img": "https://images.impresa.pt/sicnot/2024-10-02-tiroteio-sta-apolonia-1-.jpg-c20599df",
-    "link": "https://sicnoticias.pt/pais/2024-10-02-tiroteio-em-santa-apolonia-faz-tres-mortos-suspeitos-em-fuga-9b992f6c?utm_source=sicnot&utm_medium=root&utm_campaign=WEB&utm_content=/pais/2024-10-02-tiroteio-em-santa-apolonia-faz-tres-mortos-suspeitos-em-fuga-9b992f6c"
+    "sourceName": "Observador",
+    "sourceUrl": "https://observador.pt/",
+    "title": "Em direto/ \n                                        Governo aprova atualização das pensões",
+    "desc": "Governo permite atualização das pensões no ano seguinte à sua atribuição. Conselho de Ministros acontece num dia marcado pela manifestação de bombeiros junto às escadarias da Assembleia da República.",
+    "img": "https://bordalo.observador.pt/v2/q:60/rs:fill:640/c:2000:1122:nowe:0:103/plain/https://s3.observador.pt/wp-content/uploads/2024/09/11174223/43541566.jpg",
+    "link": "https://observador.pt/liveblogs/ministra-da-saude-ouvida-hoje-no-parlamento-sobre-o-inem-urgencias-e-eutanasia/"
   },
   {
-    "sourceName": "CNN Portugal",
-    "sourceUrl": "https://cnnportugal.iol.pt/",
-    "title": "Operação Fizz: Orlando Figueira detido pela PJ e levado para a prisão de Évora",
+    "sourceName": "SIC Notícias",
+    "sourceUrl": "https://sicnoticias.pt",
+    "title": "Tiroteio em Lisboa faz três mortos, suspeitos em fuga",
     "desc": "",
-    "img": "https://img.iol.pt/image/id/5a66313e0cf26606e899c9db/480.jpg",
-    "link": "https://cnnportugal.iol.pt/evora/orlando-figueira/operacao-fizz-orlando-figueira-detido-pela-pj-e-levado-para-a-prisao-de-evora/20241002/66fd0698d34ea1acf26ef9c8"
+    "img": "https://images.impresa.pt/sicnot/2024-10-02-tiroteio-sta-apolonia-1-.jpg-c20599df",
+    "link": "https://sicnoticias.pt/pais/2024-10-02-tiroteio-em-lisboa-faz-tres-mortos-suspeitos-em-fuga-9b992f6c?utm_source=sicnot&utm_medium=root&utm_campaign=WEB&utm_content=/pais/2024-10-02-tiroteio-em-lisboa-faz-tres-mortos-suspeitos-em-fuga-9b992f6c"
   },
   {
     "sourceName": "RTP Notícias",
@@ -38,6 +30,14 @@
     "desc": "",
     "img": "https://cdn-images.rtp.pt/icm/noticias/images/21/2160a2807d454a3523ac1835ddeb4ca2?w=860&q=90&rect=0,401,5472,3000",
     "link": " https://www.rtp.pt/noticias/politica/o-aviso-da-ministra-aos-bombeiros-e-a-mesa-de-negociacoes-que-se-fazem-acordos_n1604304 "
+  },
+  {
+    "sourceName": "CNN Portugal",
+    "sourceUrl": "https://cnnportugal.iol.pt/",
+    "title": "Guterres diz que tropas da ONU vão manter-se no Líbano e pede o fim das \"hostilidades\" de Israel. Hezbollah e IDF em confrontos no terreno",
+    "desc": "",
+    "img": "https://img.iol.pt/image/id/66fd40d0d34e94b82905cebc/480.jpg",
+    "link": "https://cnnportugal.iol.pt/aominuto/652125bed34e65afa2f62245"
   },
   {
     "sourceName": "Euro News",

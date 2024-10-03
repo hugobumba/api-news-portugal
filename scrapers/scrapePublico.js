@@ -9,7 +9,7 @@ async function scrapePublico() {
 	const articleInfo = [];
 
 	// Corrigido o seletor para buscar os artigos corretamente
-	$('article.article--level-2.article--media-66.tone--news.article--is-unique.article--sublinks.related-3').each((index, element) => {
+	$('#main-content > section.block.block--bf-widget.block--bf-widget-10.editorial-content.editorial-content.new-container > div > div.cs--1.cn--16.mdmax-cs--1.mdmax-cn--16 > div:nth-child(1) > div.cs--1.cn--12.mdmax-cs--1.mdmax-cn--12.md-r-bdr > article.article.article--level-2.article--media-66.tone--news.article--is-unique.article--sublinks.related-3 > div.article__inner').each((index, element) => {
 		const sourceName = "Público";
 		const sourceUrl = url;
 		const title = $(element).find('.article__title a').text().trim();

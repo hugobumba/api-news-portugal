@@ -1,58 +1,58 @@
 [
   {
-    "sourceName": "Público",
-    "sourceUrl": "https://www.publico.pt",
-    "title": "“Se proposta é irrecusável, é porque vão concordar connosco sobre IRC e IRS Jovem”",
-    "desc": "",
-    "img": "https://imagens.publico.pt/s3/files/1000/088/1943088.jpg?v=26",
-    "link": "https://www.publico.pt/2024/10/03/politica/entrevista/marina-goncalves-proposta-irrecusavel-vao-concordar-connosco-irc-irs-jovem-2106328"
-  },
-  {
     "sourceName": "CM Jornal",
     "sourceUrl": "https://www.cmjornal.pt",
-    "title": "Homem mata três pessoas em barbearia de Lisboa por querer passar à frente de clientes",
+    "title": "Tiros à queima roupa, um suspeito em fuga e duas famílias destruídas: o que se sabe sobre o triplo homicídio",
     "desc": "Grávida e marido tentaram escapar do local. Homicida atirou à cabeça para travar fuga. Barbeiro foi o primeiro a ser atingido a tiro.",
-    "img": "https://cdn.cmjornal.pt/images/2024-10/img_590x333$2024_10_02_22_11_58_1760977.jpg",
-    "link": "https://www.cmjornal.pt/portugal/detalhe/mata-tres-em-barbearia-em-lisboa?ref=HP_PrimeirosDestaques"
+    "img": "https://cdn.cmjornal.pt/images/2024-10/img_590x333$2024_10_03_13_46_41_1761369.jpg",
+    "link": "https://www.cmjornal.pt/portugal/detalhe/tiros-a-queima-roupa-tres-mortes-e-duas-familias-destruidas-o-que-se-sabe-sobre-o-triplo-homicidio-em-lisboa?ref=HP_PrimeirosDestaques"
   },
   {
     "sourceName": "Observador",
     "sourceUrl": "https://observador.pt/",
-    "title": "11 crimes do caso BES declarados prescritos",
-    "desc": "Ricardo Salgado livrou-se de três crimes de falsificação de documento e infidelidade. Mais seis arguidos beneficiam com prescrições e há mesmo um ex-funcionário do BES que já não será julgado.",
-    "img": "https://bordalo.observador.pt/v2/q:60/rs:fill:640/c:1440:808:nowe:0:0/plain/https://s3.observador.pt/wp-content/uploads/2022/09/09101537/23194348.jpg",
-    "link": "https://observador.pt/2024/10/03/tribunal-decreta-a-prescricao-de-11-crimes-do-caso-universo-espirito-santo/"
+    "title": "Governo acredita que fez \"xeque-mate\" a Pedro Nuno",
+    "desc": "Montenegro cedeu em grande medida nas duas linhas vermelhas assinaladas por Pedro Nuno. Ainda assim, acredita que recuo será valioso no futuro: com OE aprovado, tem dois anos e meio de poder garantido",
+    "img": "https://bordalo.observador.pt/v2/q:60/rs:fill:640/c:4096:2298:nowe:0:432/plain/https://s3.observador.pt/wp-content/uploads/2024/10/03203242/dventura-reuniao-ps-pns-oe-25-scaled.jpg",
+    "link": "https://observador.pt/especiais/governo-acredita-que-deixou-pedro-nuno-sem-margem-xeque-mate/"
   },
   {
     "sourceName": "SIC Notícias",
     "sourceUrl": "https://sicnoticias.pt",
-    "title": "Marcelo sobre OE: \"Até ao lavar dos cestos é vindima, ainda estamos em vindimas\"",
-    "desc": "O Presidente da República diz ter a \"convicção\" de que o Orçamento do Estado vai ser viabilizado. Mas, para já, é preciso \"esperar\": \"Até ao lavar dos cestos é vindima, ainda estamos em vindima\".",
-    "img": "https://images.impresa.pt/sicnot/2024-09-30-marcelo-rebelo-de-sousa-a8baf56e",
-    "link": "https://sicnoticias.pt/especiais/orcamento-do-estado/2024-10-03-video-marcelo-sobre-oe-ate-ao-lavar-dos-cestos-e-vindima-ainda-estamos-em-vindimas-a00a4d39?utm_source=sicnot&utm_medium=root&utm_campaign=WEB&utm_content=/especiais/orcamento-do-estado/2024-10-03-video-marcelo-sobre-oe-ate-ao-lavar-dos-cestos-e-vindima-ainda-estamos-em-vindimas-a00a4d39"
+    "title": "PS deverá apresentar contraproposta, Pedro Nuno quer \"evitar eleições e chumbo do Orçamento\"",
+    "desc": "Mais de três meses depois, o primeiro-ministro regressou, esta quinta-feira, aos debates quinzenais no Parlamento, numa discussão marcada pela incerteza em torno do Orçamento do Estado para 2025. À discussão seguiu-se uma reunião, de cerca de 30 minutos, em São Bento. Montenegro apresentou ao país a contraproposta que fez ao PS, mas os socialistas não a consideram assim tão “irrecusável”.",
+    "img": "https://images.impresa.pt/sicnot/2024-10-03-pedro-nuno-santos-luis-montenegro-268dfa46",
+    "link": "https://sicnoticias.pt/pais/2024-10-03-debate-quinzenal-montenegro-responde-aos-deputados-antes-de-reunir-se--a-sos--com-pedro-nuno-santos-efe3caa8?utm_source=sicnot&utm_medium=root&utm_campaign=WEB&utm_content=/pais/2024-10-03-debate-quinzenal-montenegro-responde-aos-deputados-antes-de-reunir-se--a-sos--com-pedro-nuno-santos-efe3caa8"
   },
   {
     "sourceName": "CNN Portugal",
     "sourceUrl": "https://cnnportugal.iol.pt/",
-    "title": "A Ucrânia destruiu o Nebo-M",
-    "desc": "Trata-se de um dos sistemas de topo da Rússia. A Ucrânia acredita que, ao destruí-lo, acaba de abrir um \"corredor aéreo\"",
-    "img": "https://img.iol.pt/image/id/66fe674fd34ea1acf26f0725/480.jpg",
-    "link": "https://cnnportugal.iol.pt/guerra/ucrania/ucrania-destroi-um-dos-radares-de-topo-russos-custa-mais-de-100-milhoes-russia-so-tem-dez-agora-nove-e-nao-escapou-a-um-missil-balistico-americano/20241003/66fe68dfd34ea1acf26f074c"
+    "title": "Cerca de 90 vítimas e 60 mil euros perdidos. Segurança Social bloqueia alteração de IBAN após dezenas de queixas",
+    "desc": "Número de casos levou mesmo a Segurança Social a bloquear a funcionalidade de se poder alterar o IBAN online",
+    "img": "https://img.iol.pt/image/id/5cedb8960cf2bfa3e1979701/480.jpg",
+    "link": "https://cnnportugal.iol.pt/seguranca-social/burla/cerca-de-90-vitimas-e-60-mil-euros-perdidos-seguranca-social-bloqueia-alteracao-de-iban-apos-dezenas-de-queixas/20241003/66feaf00d34e94b82905ddb2"
   },
   {
     "sourceName": "RTP Notícias",
     "sourceUrl": "https://www.rtp.pt/noticias/",
-    "title": "Marcelo acredita \"até ao último segundo\" que \"vai haver Orçamento\"",
+    "title": "OE2025. Governo adota modelo do IRS Jovem do PS e diz-se disponível para \"melhorar a proposta\"",
     "desc": "",
-    "img": "https://cdn-images.rtp.pt/icm/noticias/images/5f/5f60f1dd580b9b2f732ae90fd9d3cc33?w=860&q=90&rect=0,0,1499,822",
-    "link": " https://www.rtp.pt/noticias/economia/marcelo-acredita-ate-ao-ultimo-segundo-que-vai-haver-orcamento_n1604538 "
+    "img": "https://cdn-images.rtp.pt/icm/noticias/images/e5/e5392d62da4d683380c431c13f549375?w=860&q=90&rect=20,0,1459,800",
+    "link": " https://www.rtp.pt/noticias/economia/oe2025-governo-adota-modelo-do-irs-jovem-do-ps-e-diz-se-disponivel-para-melhorar-a-proposta_n1604632 "
   },
   {
     "sourceName": "Euro News",
     "sourceUrl": "https://pt.euronews.com/noticias/europa/portugal",
-    "title": "Lisboa é eleita Melhor Destino Culinário da Europa pela primeira vez",
+    "title": "\"Esforço máximo para viabilização do OE\": Montenegro acolhe propostas do PS no IRC e IRS jovem",
     "desc": "",
-    "img": "https://static.euronews.com/articles/stories/08/76/86/98/210x136_cmsv2_5f681f5f-05f1-510e-bad9-96d116e5de22-8768698.jpg",
-    "link": "https://pt.euronews.com/noticias/europa/portugal/cultura/2024/10/03/lisboa-e-eleita-melhor-destino-culinario-da-europa-pela-primeira-vez"
+    "img": "https://static.euronews.com/articles/stories/08/77/00/12/210x136_cmsv2_7354acef-f9f8-516a-99f5-d3c0cc984e81-8770012.jpg",
+    "link": "https://pt.euronews.com/noticias/europa/portugal/my-europe/2024/10/03/esforco-maximo-para-viabilizacao-do-oe-montenegro-acolhe-propostas-do-ps-no-irc-e-irs-jove"
+  },
+  {
+    "sourceName": "Público",
+    "sourceUrl": "https://www.publico.pt",
+    "title": "Governo aproxima-se do PS com IRS Jovem progressivo e IRC a descer menos",
+    "desc": "",
+    "img": "https://imagens.publico.pt/s3/files/1000/404/1943404.jpg?v=8",
+    "link": "https://www.publico.pt/2024/10/03/politica/noticia/governo-aproximase-ps-irs-jovem-progressivo-irc-descer-menos-2106496"
   }
 ]

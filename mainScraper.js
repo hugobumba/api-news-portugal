@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const scrapePublico = require('./scrapers/scrapePublico');
 const scrapeObservador = require('./scrapers/scrapeObservador');
 const scrapeCmJornal = require('./scrapers/scrapeCmJornal');
 const scrapeSicNoticias = require('./scrapers/scrapeSicNoticias');
@@ -17,6 +18,7 @@ async function mainScraper() {
         scrapeRtp(),
         scrapeCnnPortugal(),
         scrapeEuroNews(),
+        scrapePublico(),
     ]);
 
     const allNews = results.flat();

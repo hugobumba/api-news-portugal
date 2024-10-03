@@ -16,8 +16,8 @@ async function mainScraper() {
         scrapeCmJornal(),
         scrapeObservador(),
         scrapeSicNoticias(),
-        scrapeRtp(),
         scrapeCnnPortugal(),
+        scrapeRtp(),
         scrapeEuroNews(),
     ]);
 

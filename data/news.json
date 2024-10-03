@@ -1,0 +1,50 @@
+[
+  {
+    "sourceName": "CM Jornal",
+    "sourceUrl": "https://www.cmjornal.pt",
+    "title": "Homem mata três pessoas em barbearia de Lisboa por querer passar à frente de clientes",
+    "desc": "Grávida e marido tentaram escapar do local. Homicida atirou à cabeça para travar fuga. Barbeiro foi o primeiro a ser atingido a tiro.",
+    "img": "https://cdn.cmjornal.pt/images/2024-10/img_590x333$2024_10_02_22_11_58_1760977.jpg",
+    "link": "https://www.cmjornal.pt/portugal/detalhe/mata-tres-em-barbearia-em-lisboa?ref=HP_PrimeirosDestaques"
+  },
+  {
+    "sourceName": "Observador",
+    "sourceUrl": "https://observador.pt/",
+    "title": "11 crimes do caso BES declarados prescritos",
+    "desc": "Ricardo Salgado livrou-se de três crimes de falsificação de documento e infidelidade. Mais seis arguidos beneficiam com prescrições e há mesmo um ex-funcionário do BES que já não será julgado.",
+    "img": "https://bordalo.observador.pt/v2/q:60/rs:fill:640/c:1440:808:nowe:0:0/plain/https://s3.observador.pt/wp-content/uploads/2022/09/09101537/23194348.jpg",
+    "link": "https://observador.pt/2024/10/03/tribunal-decreta-a-prescricao-de-11-crimes-do-caso-universo-espirito-santo/"
+  },
+  {
+    "sourceName": "SIC Notícias",
+    "sourceUrl": "https://sicnoticias.pt",
+    "title": "Marcelo sobre OE: \"Até ao lavar dos cestos é vindima, ainda estamos em vindimas\"",
+    "desc": "O Presidente da República diz ter a \"convicção\" de que o Orçamento do Estado vai ser viabilizado. Mas, para já, é preciso \"esperar\": \"Até ao lavar dos cestos é vindima, ainda estamos em vindima\".",
+    "img": "https://images.impresa.pt/sicnot/2024-09-30-marcelo-rebelo-de-sousa-a8baf56e",
+    "link": "https://sicnoticias.pt/especiais/orcamento-do-estado/2024-10-03-video-marcelo-sobre-oe-ate-ao-lavar-dos-cestos-e-vindima-ainda-estamos-em-vindimas-a00a4d39?utm_source=sicnot&utm_medium=root&utm_campaign=WEB&utm_content=/especiais/orcamento-do-estado/2024-10-03-video-marcelo-sobre-oe-ate-ao-lavar-dos-cestos-e-vindima-ainda-estamos-em-vindimas-a00a4d39"
+  },
+  {
+    "sourceName": "CNN Portugal",
+    "sourceUrl": "https://cnnportugal.iol.pt/",
+    "title": "Caso Abramovich leva comunidade israelita a exigir 10 milhões ao Estado português. Autoridades usaram denúncias anónimas \"dementes\"",
+    "desc": "Comunidade Israelita do Porto colocou o Estado português em tribunal por causa de uma alegada “campanha caluniosa” gerada pela operação policial que investigou a atribuição de nacionalidade portuguesa ao oligarca russo. Caso gerou buscas e detenções, incluindo a de um rabino-chefe, mas o Tribunal da Relação acabou por considerar que não existiam indícios de crime",
+    "img": "https://img.iol.pt/image/id/6241d9af0cf21a10a427cd17/480.jpg",
+    "link": "https://cnnportugal.iol.pt/abramovich/operacao-porta-aberta/caso-abramovich-leva-comunidade-israelita-a-exigir-10-milhoes-ao-estado-portugues-autoridades-usaram-denuncias-anonimas-dementes/20241003/66fd4dc4d34ea1acf26efdb0"
+  },
+  {
+    "sourceName": "RTP Notícias",
+    "sourceUrl": "https://www.rtp.pt/noticias/",
+    "title": "Marcelo acredita \"até ao último segundo\" que \"vai haver Orçamento\"",
+    "desc": "",
+    "img": "https://cdn-images.rtp.pt/icm/noticias/images/5f/5f60f1dd580b9b2f732ae90fd9d3cc33?w=860&q=90&rect=0,0,1499,822",
+    "link": " https://www.rtp.pt/noticias/economia/marcelo-acredita-ate-ao-ultimo-segundo-que-vai-haver-orcamento_n1604538 "
+  },
+  {
+    "sourceName": "Euro News",
+    "sourceUrl": "https://pt.euronews.com/noticias/europa/portugal",
+    "title": "Lisboa é eleita Melhor Destino Culinário da Europa pela primeira vez",
+    "desc": "",
+    "img": "https://static.euronews.com/articles/stories/08/76/86/98/210x136_cmsv2_5f681f5f-05f1-510e-bad9-96d116e5de22-8768698.jpg",
+    "link": "https://pt.euronews.com/noticias/europa/portugal/cultura/2024/10/03/lisboa-e-eleita-melhor-destino-culinario-da-europa-pela-primeira-vez"
+  }
+]

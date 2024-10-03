@@ -12,13 +12,13 @@ async function mainScraper() {
     const jsonFilePath = path.join(__dirname, 'data', 'news.json');
 
     const results = await Promise.all([
-        scrapePublico(),
         scrapeCmJornal(),
         scrapeObservador(),
         scrapeSicNoticias(),
         scrapeCnnPortugal(),
         scrapeRtp(),
         scrapeEuroNews(),
+        scrapePublico(),
     ]);
 
     const allNews = results.flat();

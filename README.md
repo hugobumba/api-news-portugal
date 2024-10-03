@@ -25,7 +25,7 @@ In update.
   - ✅ CNN Portugal
   - ✅ RTP
   - ✅ EuroNews
-  - ❌ Público
+  - ✅ Público
   - ❌ Jornal Nacional
   - ❌ Diário de Notícias
   - ❌ Expresso

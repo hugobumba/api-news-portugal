@@ -1,5 +1,13 @@
 [
   {
+    "sourceName": "Público",
+    "sourceUrl": "https://www.publico.pt",
+    "title": "“Se proposta é irrecusável, é porque vão concordar connosco sobre IRC e IRS Jovem”",
+    "desc": "",
+    "img": "https://imagens.publico.pt/s3/files/1000/088/1943088.jpg?v=26",
+    "link": "https://www.publico.pt/2024/10/03/politica/entrevista/marina-goncalves-proposta-irrecusavel-vao-concordar-connosco-irc-irs-jovem-2106328"
+  },
+  {
     "sourceName": "CM Jornal",
     "sourceUrl": "https://www.cmjornal.pt",
     "title": "Homem mata três pessoas em barbearia de Lisboa por querer passar à frente de clientes",
@@ -26,10 +34,10 @@
   {
     "sourceName": "CNN Portugal",
     "sourceUrl": "https://cnnportugal.iol.pt/",
-    "title": "Caso Abramovich leva comunidade israelita a exigir 10 milhões ao Estado português. Autoridades usaram denúncias anónimas \"dementes\"",
-    "desc": "Comunidade Israelita do Porto colocou o Estado português em tribunal por causa de uma alegada “campanha caluniosa” gerada pela operação policial que investigou a atribuição de nacionalidade portuguesa ao oligarca russo. Caso gerou buscas e detenções, incluindo a de um rabino-chefe, mas o Tribunal da Relação acabou por considerar que não existiam indícios de crime",
-    "img": "https://img.iol.pt/image/id/6241d9af0cf21a10a427cd17/480.jpg",
-    "link": "https://cnnportugal.iol.pt/abramovich/operacao-porta-aberta/caso-abramovich-leva-comunidade-israelita-a-exigir-10-milhoes-ao-estado-portugues-autoridades-usaram-denuncias-anonimas-dementes/20241003/66fd4dc4d34ea1acf26efdb0"
+    "title": "A Ucrânia destruiu o Nebo-M",
+    "desc": "Trata-se de um dos sistemas de topo da Rússia. A Ucrânia acredita que, ao destruí-lo, acaba de abrir um \"corredor aéreo\"",
+    "img": "https://img.iol.pt/image/id/66fe674fd34ea1acf26f0725/480.jpg",
+    "link": "https://cnnportugal.iol.pt/guerra/ucrania/ucrania-destroi-um-dos-radares-de-topo-russos-custa-mais-de-100-milhoes-russia-so-tem-dez-agora-nove-e-nao-escapou-a-um-missil-balistico-americano/20241003/66fe68dfd34ea1acf26f074c"
   },
   {
     "sourceName": "RTP Notícias",

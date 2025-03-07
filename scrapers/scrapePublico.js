@@ -14,7 +14,7 @@ async function scrapePublico() {
 		const sourceUrl = url;
 		const title = $(element).find('.article__title a').text().trim();
 		const desc = $(element).find('.article__lead').text().trim();
-		const img = $(element).find('picture source[type="image/jpeg"]').attr('srcset')?.split(' ')[0];
+		const img = $(element).find('picture source[type="image/jpeg"]').attr('srcset')?.split(' ')[0] || '../img/logo.png';
 		const link = url + $(element).find('.article__title a').attr('href');
 		//console.log({ sourceName, sourceUrl, title, desc, img, link });
 

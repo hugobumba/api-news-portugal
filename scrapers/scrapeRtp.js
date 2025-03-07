@@ -13,7 +13,7 @@ async function scrapeRtp() {
 		const sourceUrl = url;
 		const title = $(element).find('.meta.highlights h2').text().trim();
 		const desc = '';
-		const img = $(element).find('.img-container img').attr('src');
+		const img = $(element).find('.img-container img').attr('src') || '../img/logo.png';
 		const link = $(element).find('a').attr('href');
 		//console.log({ sourceName, sourceUrl, title, desc, img, link });
 

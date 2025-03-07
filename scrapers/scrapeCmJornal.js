@@ -13,7 +13,7 @@ async function scrapeCMJornal() {
 		const sourceUrl = url;
 		const title = $(element).find('h1 a').text().trim();
 		const desc = $(element).find('p').text().trim();
-		const img = $(element).find('.image img').attr('src');
+		const img = $(element).find('.image img').attr('src') || '../img/logo.png';
 		const link = url + $(element).find('h1 a').attr('href');
 		//console.log({ sourceName, sourceUrl, title, desc, img, link });
 

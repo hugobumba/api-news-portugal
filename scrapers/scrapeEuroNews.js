@@ -13,7 +13,7 @@ async function scrapeEuroNews() {
 		const sourceUrl = url;
 		const title = $(element).find('.m-object__title.qa-article-title a').text().trim();
 		const desc = '';
-		const img = $(element).find('.media__img__link img').attr('src');
+		const img = $(element).find('.media__img__link img').attr('src') || '../img/logo.png';
 		const link = url + $(element).find('.m-object__title.qa-article-title a').attr('href');
 		//console.log({ sourceName, sourceUrl, title, desc, img, link });
 

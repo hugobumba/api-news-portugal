@@ -13,7 +13,7 @@ async function scrapeSicNoticias() {
 		const sourceUrl = url;
 		const title = $(element).find('.teaser-article-inner h2.title a').text().trim().replace('Em direto/ ', '');
 		const desc = $(element).find('.lead a').text().trim();
-		const img = $(element).find('img').attr('src');
+		const img = $(element).find('img').attr('src') || '../img/logo.png';
 		const link = url + $(element).find('.title a').attr('href');
 		//console.log({ source, title, desc, img, link });
 

@@ -1,58 +1,34 @@
 [
   {
-    "sourceName": "CM Jornal",
-    "sourceUrl": "https://www.cmjornal.pt",
-    "title": "Tiros à queima roupa, um suspeito em fuga e duas famílias destruídas: o que se sabe sobre o triplo homicídio",
-    "desc": "Grávida e marido tentaram escapar do local. Homicida atirou à cabeça para travar fuga. Barbeiro foi o primeiro a ser atingido a tiro.",
-    "img": "https://cdn.cmjornal.pt/images/2024-10/img_590x333$2024_10_03_13_46_41_1761369.jpg",
-    "link": "https://www.cmjornal.pt/portugal/detalhe/tiros-a-queima-roupa-tres-mortes-e-duas-familias-destruidas-o-que-se-sabe-sobre-o-triplo-homicidio-em-lisboa?ref=HP_PrimeirosDestaques"
-  },
-  {
-    "sourceName": "Observador",
-    "sourceUrl": "https://observador.pt/",
-    "title": "Governo acredita que fez \"xeque-mate\" a Pedro Nuno",
-    "desc": "Montenegro cedeu em grande medida nas duas linhas vermelhas assinaladas por Pedro Nuno. Ainda assim, acredita que recuo será valioso no futuro: com OE aprovado, tem dois anos e meio de poder garantido",
-    "img": "https://bordalo.observador.pt/v2/q:60/rs:fill:640/c:4096:2298:nowe:0:432/plain/https://s3.observador.pt/wp-content/uploads/2024/10/03203242/dventura-reuniao-ps-pns-oe-25-scaled.jpg",
-    "link": "https://observador.pt/especiais/governo-acredita-que-deixou-pedro-nuno-sem-margem-xeque-mate/"
-  },
-  {
     "sourceName": "SIC Notícias",
     "sourceUrl": "https://sicnoticias.pt",
-    "title": "PS deverá apresentar contraproposta, Pedro Nuno quer \"evitar eleições e chumbo do Orçamento\"",
-    "desc": "Mais de três meses depois, o primeiro-ministro regressou, esta quinta-feira, aos debates quinzenais no Parlamento, numa discussão marcada pela incerteza em torno do Orçamento do Estado para 2025. À discussão seguiu-se uma reunião, de cerca de 30 minutos, em São Bento. Montenegro apresentou ao país a contraproposta que fez ao PS, mas os socialistas não a consideram assim tão “irrecusável”.",
-    "img": "https://images.impresa.pt/sicnot/2024-10-03-pedro-nuno-santos-luis-montenegro-268dfa46",
-    "link": "https://sicnoticias.pt/pais/2024-10-03-debate-quinzenal-montenegro-responde-aos-deputados-antes-de-reunir-se--a-sos--com-pedro-nuno-santos-efe3caa8?utm_source=sicnot&utm_medium=root&utm_campaign=WEB&utm_content=/pais/2024-10-03-debate-quinzenal-montenegro-responde-aos-deputados-antes-de-reunir-se--a-sos--com-pedro-nuno-santos-efe3caa8"
+    "title": "Governo garante que não houve “nenhuma alteração” ao traçado da linha de alta velocidade",
+    "desc": "Em entrevista à SIC Notícias, o ministro das Infraestruturas esclareceu que não cabe nem ao Ministério nem à Infraestruturas de Portugal definir o traçado da linha de alta velocidade. Isto depois de ter sido noticiado que habitações que estavam salvaguardadas estão agora em risco de ser demolidas.",
+    "img": "https://images.impresa.pt/sicnot/2025-03-07-miguel-pinto-luz-deb17137",
+    "link": "https://sicnoticias.pt/pais/2025-03-07-video-governo-garante-que-nao-houve-nenhuma-alteracao-ao-tracado-da-linha-de-alta-velocidade-8d9cfc72?utm_source=sicnot&utm_medium=root&utm_campaign=WEB&utm_content=/pais/2025-03-07-video-governo-garante-que-nao-houve-nenhuma-alteracao-ao-tracado-da-linha-de-alta-velocidade-8d9cfc72"
   },
   {
     "sourceName": "CNN Portugal",
     "sourceUrl": "https://cnnportugal.iol.pt/",
-    "title": "Cerca de 90 vítimas e 60 mil euros perdidos. Segurança Social bloqueia alteração de IBAN após dezenas de queixas",
-    "desc": "Número de casos levou mesmo a Segurança Social a bloquear a funcionalidade de se poder alterar o IBAN online",
-    "img": "https://img.iol.pt/image/id/5cedb8960cf2bfa3e1979701/480.jpg",
-    "link": "https://cnnportugal.iol.pt/seguranca-social/burla/cerca-de-90-vitimas-e-60-mil-euros-perdidos-seguranca-social-bloqueia-alteracao-de-iban-apos-dezenas-de-queixas/20241003/66feaf00d34e94b82905ddb2"
+    "title": "Relatório do caso das gémeas acusa Marcelo de \"abuso de poder\"",
+    "desc": "Relatório preliminar da comissão parlamentar de inquérito ao caso das gémeas foi redigido pela deputada do Chega Cristina Rodrigues e diz que Nuno Rebelo de Sousa foi o \"promotor da ilegalidade cometida\", mas acusa Marcelo Rebelo de Sousa de ter agido \"de forma consciente e intencional\"",
+    "img": "https://img.iol.pt/image/id/56e0401c0cf268202649c2bb/480.jpg",
+    "link": "https://cnnportugal.iol.pt/cpi-gemeas/caso-das-gemeas/relatorio-do-caso-das-gemeas-acusa-marcelo-de-abuso-de-poder/20250307/67cac984d34ef72ee4432345"
   },
   {
     "sourceName": "RTP Notícias",
     "sourceUrl": "https://www.rtp.pt/noticias/",
-    "title": "OE2025. Governo adota modelo do IRS Jovem do PS e diz-se disponível para \"melhorar a proposta\"",
+    "title": "Crise política. Governo garante que moção de confiança avança",
     "desc": "",
-    "img": "https://cdn-images.rtp.pt/icm/noticias/images/e5/e5392d62da4d683380c431c13f549375?w=860&q=90&rect=20,0,1459,800",
-    "link": " https://www.rtp.pt/noticias/economia/oe2025-governo-adota-modelo-do-irs-jovem-do-ps-e-diz-se-disponivel-para-melhorar-a-proposta_n1604632 "
+    "img": "https://cdn-images.rtp.pt/icm/noticias/images/36/369175f2469c1cc569ae8eaedc18500b?w=860&q=90&rect=0,82,1500,822",
+    "link": " https://www.rtp.pt/noticias/politica/crise-politica-governo-garante-que-mocao-de-confianca-avanca_v1639215 "
   },
   {
     "sourceName": "Euro News",
     "sourceUrl": "https://pt.euronews.com/noticias/europa/portugal",
-    "title": "\"Esforço máximo para viabilização do OE\": Montenegro acolhe propostas do PS no IRC e IRS jovem",
+    "title": "Que impacto podem ter as medidas tarifárias de Trump sobre Portugal?",
     "desc": "",
-    "img": "https://static.euronews.com/articles/stories/08/77/00/12/210x136_cmsv2_7354acef-f9f8-516a-99f5-d3c0cc984e81-8770012.jpg",
-    "link": "https://pt.euronews.com/noticias/europa/portugal/my-europe/2024/10/03/esforco-maximo-para-viabilizacao-do-oe-montenegro-acolhe-propostas-do-ps-no-irc-e-irs-jove"
-  },
-  {
-    "sourceName": "Público",
-    "sourceUrl": "https://www.publico.pt",
-    "title": "Governo aproxima-se do PS com IRS Jovem progressivo e IRC a descer menos",
-    "desc": "",
-    "img": "https://imagens.publico.pt/s3/files/1000/404/1943404.jpg?v=8",
-    "link": "https://www.publico.pt/2024/10/03/politica/noticia/governo-aproximase-ps-irs-jovem-progressivo-irc-descer-menos-2106496"
+    "img": "https://static.euronews.com/articles/stories/09/09/75/42/210x136_cmsv2_c89e96bd-5ff7-573d-81e8-c0818a84099b-9097542.jpg",
+    "link": "https://pt.euronews.com/noticias/europa/portugal/my-europe/2025/03/07/guerra-comercial-de-trump-que-impacto-podem-ter-as-novas-medidas-tarifarias-sobre-portugal"
   }
 ]

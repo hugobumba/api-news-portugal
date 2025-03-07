@@ -13,7 +13,7 @@ async function scrapeObservador() {
 		const sourceUrl = url;
 		const title = $(element).find('.title a').text().trim();
 		const desc = $(element).find('.lead').text().trim();
-		const img = $(element).find('.image img').attr('src');
+		const img = $(element).find('.image img').attr('src') || '../img/logo.png';
 		const link = $(element).find('.title a').attr('href');
 		//console.log({ sourceName, sourceUrl, title, desc, img, link });
 
